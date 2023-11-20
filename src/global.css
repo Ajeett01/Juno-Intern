@@ -1,0 +1,60 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Lettera+Text+LL:wght@500&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Poppins:ital@1&display=swap');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+@import url(https://db.onlinewebfonts.com/c/6cc715122c2880c53facde0e44b3498c?family=LetteraTextStd);
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-lettera-text-ll: "LetteraTextStd";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 0.88rem;
+  --font-size-smi-7: 0.79rem;
+  --font-size-base: 1rem;
+  --font-size-xs: 0.75rem;
+
+  /* Colors */
+  --background-default: #fff;
+  --background-error: #f6d8d8;
+  --base-error: #d13b3b;
+  --stroke-primary: #e4e4e4;
+  --content-secondary: #777676;
+  --colors-base-black: #2a2a2a;
+  --content-primary: #050505;
+  --base-brand: #4643ee;
+  --background-brand: rgba(70, 67, 238, 0.1);
+  --background-raised: #f5f5f5;
+  --content-on-success: #006540;
+  --content-on-error: #7d2424;
+  --content-on-warning: #88670f;
+  --content-tertiary: #adadad;
+
+  /* Gaps */
+  --gap-7xs: 0.38rem;
+  --gap-5xs: 0.5rem;
+  --gap-11xs: 0.13rem;
+  --gap-29xl: 3rem;
+  --gap-2xs: 0.69rem;
+
+  /* Paddings */
+  --padding-5xs: 0.5rem;
+  --padding-base: 1rem;
+  --padding-29xl: 3rem;
+  --padding-13xl: 2rem;
+  --padding-3xs: 0.63rem;
+  --padding-lg: 1.13rem;
+  --padding-5xl: 1.5rem;
+  --padding-xs: 0.75rem;
+
+  /* Border radiuses */
+  --br-6xs: 7px;
+  --br-4xs: 9px;
+  --br-5xs: 8px;
+  --br-xs: 12px;
+}

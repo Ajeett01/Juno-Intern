@@ -1,0 +1,21 @@
+.button {
+  border: 1px solid var(--stroke-primary);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  background-color: var(--background-default);
+  top: 12.06rem;
+  /* left: calc(50% - 414px); */
+  border-radius: var(--br-4xs) var(--br-5xs) var(--br-5xs) var(--br-4xs);
+  box-sizing: border-box;
+  width: 23.13rem;
+  height: 2.5rem;
+  align-items: center;
+  /* padding: var(--padding-5xs) var(--padding-base); */
+  padding-left: 2.5rem;
+}
+.searchIcon{
+    position: absolute;
+    display: flex;
+    top: 0.6rem;
+    padding-left: 1rem;
+}
